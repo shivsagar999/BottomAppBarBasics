@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BottomAppBarWithFAB</string>
+    <string name="this_is_bottom_app_bar_basics">This is Bottom App Bar Basics</string>
+    <string name="paint_brush">Paint Brush</string>
+    <string name="floating_action_bar_button">Floating Action Bar Button</string>
+    <string name="header_title">Header Title</string>
+    <string name="header_text">Header Text</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="smiley0">Smiley0</string>
+    <string name="smiley1">Smiley1</string>
+    <string name="smiley2">Smiley2</string>
+    <string name="smiley3">Smiley3</string>
+    <string name="smiley4">Smiley4</string>
+</resources>

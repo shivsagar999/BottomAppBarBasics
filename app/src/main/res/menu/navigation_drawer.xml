@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group1">
+        <item
+            android:id="@+id/subtitle"
+            android:title="@string/subtitle">
+            <menu>
+                <item
+                    android:id="@+id/smiley"
+                    android:icon="@drawable/smiley"
+                    android:title="@string/smiley0" />
+
+                <item
+                    android:id="@+id/smiley1"
+                    android:icon="@drawable/smiley"
+                    android:title="@string/smiley1" />
+
+                <item
+                    android:id="@+id/smiley2"
+                    android:icon="@drawable/smiley"
+                    android:title="@string/smiley2" />
+            </menu>
+        </item>
+    </group>
+    <group android:id="@+id/group2">
+        <item
+            android:id="@+id/subtitle2"
+            android:title="@string/subtitle">
+            <menu>
+                <item
+                    android:id="@+id/smiley3"
+                    android:icon="@drawable/smiley"
+                    android:title="@string/smiley3" />
+                <item
+                    android:id="@+id/smiley4"
+                    android:icon="@drawable/smiley"
+                    android:title="@string/smiley4" />
+            </menu>
+        </item>
+    </group>
+
+</menu>
