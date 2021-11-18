@@ -9,7 +9,7 @@ import com.eurofins.bottomappbarwithfab.databinding.ActivityMainBinding
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 
 class MainActivity : AppCompatActivity() {
-    lateinit var binding: ActivityMainBinding
+    private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -59,7 +59,4 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this, "Handle Button Press", Toast.LENGTH_LONG).show()
         }
     }
-
-
-
 }
